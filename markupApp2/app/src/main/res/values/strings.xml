@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">markupApp2</string>
-    <string name="hintInputText">Введите что-нибудь...</string>
-    <string name="sendButtonText">ОТПРАВИТЬ</string>
-    <string name="cancelButtonText">НАЗАД</string>
-</resources>
