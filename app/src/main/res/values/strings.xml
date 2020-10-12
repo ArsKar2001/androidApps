@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">markupApp1</string>
+    <string name="inpetText">Введите текст...</string>
+    <string name="textbutton">ОТПРАВИТЬ</string>
 </resources>
