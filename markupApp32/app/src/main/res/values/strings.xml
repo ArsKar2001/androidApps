@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">markupApp3</string>
+    <string name="textStr">Вот это адаптивная разметка</string>
+    <string name="startBtn">Start</string>
 </resources>
