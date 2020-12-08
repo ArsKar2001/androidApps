@@ -12,12 +12,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
-        android:textSize="20sp"
+        android:textSize="25sp"
         android:layout_weight="0"
         android:fontFamily="@font/montserrat"
         android:paddingTop="20sp"
         android:text="@string/textStr"
-        android:gravity="center_horizontal"/>
+        android:gravity="center_horizontal"
+        android:textStyle="bold"/>
 
     <ImageView
         android:id="@+id/imageView2"
@@ -26,14 +27,17 @@
         android:layout_weight="3"
         app:srcCompat="@mipmap/ic_launcher"
         android:paddingTop="20sp"
-        android:paddingBottom="20sp"/>
+        android:paddingBottom="20sp"
+        android:contentDescription="@string/todo" />
 
     <Button
         android:id="@+id/button"
+        android:textSize="25sp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0"
-        android:background="#109BDC"
+        android:background="#3DDC84"
+        android:textStyle="bold"
         android:fontFamily="@font/montserrat"
         android:text="@string/startBtn"
         android:textColor="#FFFFFF" />
